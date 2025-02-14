@@ -15,7 +15,7 @@ ISSUE: If you see "python must be installed" when opening the probes tab in the 
 [2025.02.13-22.58.59:337][  0]LogPython: Error: Traceback (most recent call last):
 
 FIX:
-1) goto C:\Windows\Microsoft.NET\Framework64\[version, probably 4.0(something)]\Config\machine.config
+1) goto C:\Windows\Microsoft.NET\Framework64\\[version, probably 4.0(something)]\Config\machine.config
 
 2) find and replace
 
