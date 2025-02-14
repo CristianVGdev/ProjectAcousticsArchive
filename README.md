@@ -19,10 +19,10 @@ FIX:
 
 2) find and replace
 
-<runtime/>
+\<runtime/>
 
 with
 
-<runtime>
-	<loadFromRemoteSources enabled="true"/>
-</runtime>
+\<runtime>\
+	\<loadFromRemoteSources enabled="true"/>\
+\</runtime>
